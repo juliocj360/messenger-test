@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Test repo using react-redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliocj360/messenger-test.git"
+  },
+  "author": "Julio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliocj360/messenger-test/issues"
+  },
+  "homepage": "https://github.com/juliocj360/messenger-test#readme"
+}
